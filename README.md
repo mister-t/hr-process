@@ -77,7 +77,7 @@ For the channels/sources with boolean search/hiring tools, here's a list:
 10. Indeed
 11. Hired
 
-Lastly, we can also use various scraping tools to consolidate potential candidates and sift through them after ingesting the data into our system.
+Lastly, we can also use various scraping tools to consolidate potential candidates and sift through them after ingesting the data into our system. An [example](https://www.youtube.com/watch?v=ApgVkG2Mofk) is using apollo.io to look for potential candidates and scrape the results page.
 
 ## 4. Interview Questions
 
