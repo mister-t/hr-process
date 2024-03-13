@@ -18,7 +18,7 @@
 
 ## 2. Email Campaign
 
-#### We could customize the template with more details tailored specifcally to the recipient. Yes, this template looks boring but formalities matter when it comes to introduction.
+#### We could customize the template with more details tailored specifically to the recipient. Yes, this template looks boring, but formalities matter when it comes to introduction.
 
 ```
 Subject: John <> Yuxin - Full Stack Software Engineer (YC S21)
@@ -61,7 +61,7 @@ A more proactive approach & example is the [postings from Ashby](https://www.ash
 
 ### Process with channels & tools
 
-An under-utitlized channel is local meetups or tech events/conferences. I personally go to meetups (in SF) frequently at various places, and they often have open-mics at the end for announcements. While mingling with other attendees, they often have friends or colleangues looking for new challenges.
+An under-utitlized channel is local meetups or tech events/conferences. I personally go to meetups (in SF) frequently at various places, and they often have open-mics at the end for announcements. While mingling with other attendees, they often have friends or colleagues looking for new challenges.
 
 For the channels/sources with boolean search/hiring tools, here's a list:
 
@@ -77,7 +77,7 @@ For the channels/sources with boolean search/hiring tools, here's a list:
 10. Indeed
 11. Hired
 
-We can also use various scrapping tools to consolidate potential candidates and sift through them after ingesting the data into our system.
+Lastly, we can also use various scraping tools to consolidate potential candidates and sift through them after ingesting the data into our system.
 
 ## 4. Interview Questions
 
