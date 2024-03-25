@@ -46,7 +46,7 @@ P.S. Love your current job? No worries! Refer a friend & get paid $5000 for each
 
 ### Cadence
 
-1. One to two days on initial outreach after ID’ing potential candidate
+1. One to two days on initial outreach after ID’ing potential candidate (optional: people are busy & it might come off as annoying, unless I personally met the engineer already, say at a meetup, and he/she expressed interest).
 2. Follow-up if no response in a week
 3. Send another follow-up if no response in a week; emphasize urgency & flexible accommodation of the position if needed .
 4. Close the loop if no response yet again by sending a final, gentle reminder to reach out if their situation changes.
